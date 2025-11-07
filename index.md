@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Adeline Chacon
 _Data Analyst • SQL • Power BI_
 
