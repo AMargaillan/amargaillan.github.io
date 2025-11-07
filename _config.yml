@@ -1,12 +1,17 @@
-title: Adeline Chacon | Data Analyst Portfolio
-description: Showcasing projects in SQL, Power BI, and data visualization
+title: Adeline Chacon | Data Analyst
+description: Portfolio of data analysis, visualization, and problem-solving projects.
 theme: jekyll-theme-minimal
-logo: /assets/img/profile-photo.jpg
-show_downloads: false
-github:
-  is_project_page: false
-  is_user_page: true
-social_links:
-  linkedin: www.linkedin.com/in/adeline-chacon-13b266173
-  github: https://github.com/amargaillan
+
+github_username: AMargaillan
+linkedin: www.linkedin.com/in/adeline-chacon-13b266173
+
+# Navigation links
+nav:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects
+  - name: About
+    link: /#about
+
 
