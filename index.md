@@ -10,7 +10,7 @@ _Data Analyst • Operations Analytics • Predictive Modeling • Data Storytel
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4)
 
 
-Hello! I’m Adeline, a problem-solver at heart and a data analyst by profession. I’m passionate about helping teams understand what their data is actually saying — whether that's diagnosing efficiency issues, understanding customer patterns, or identifying where a process is struggling.
+Hello! I’m Adeline, a problem-solver at heart and a data analyst by profession. I’m passionate about helping teams understand what their data is actually saying — whether that's diagnosing efficiency issues, understanding customer patterns, or identifying where a process is struggling. **Connect with me on [LinkedIn](https://www.linkedin.com/in/adeline-chacon-13b266173)**  
 
 ## Skills
 - **Languages / Querying:** SQL
