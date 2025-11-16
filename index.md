@@ -31,3 +31,8 @@ I enjoy digging into complex datasets, simplifying them, and using data to drive
 ## Currently Working On
 - Expanding my portfolio with more R and SQL projects
 - Completing my MS in Data Analytics at SNHU (graduation: expected 2027)
+- Learning Python for data analysis
+
+<sub>Last updated: November 2025</sub>
+
+
