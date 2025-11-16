@@ -64,6 +64,8 @@ The recommended architecture includes:
 - Metadata governance plan  
 - Vendor evaluation document  
 
-## 🖼️ Screenshots / Visuals
-_Add your ERDs or architecture diagrams here:_
+## 📄 Full Report (Download)
+You can view the complete written report here:
+
+👉 [Third Star Enterprise Data Architecture Report (PDF)](../EDM-Analysis-for-Third-Star-Financial-Services.pdf)
 
