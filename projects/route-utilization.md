@@ -54,3 +54,75 @@ Leadership needed:
 50%  utilization (normalized)
 30%  miss rate (inverted: lower is better)
 20%  overtime (inverted: lower is better)
+```
+
+---
+
+## 📊 Recommendation Categories
+
+| Category | Meaning |
+|---------|---------|
+| **Critical** | Underutilized + high miss rate OR high overtime |
+| **Headcount Needed** | Routes at or near full utilization + strain indicators |
+| **Efficiency Issue** | High miss rate despite manageable utilization |
+| **Capacity Issue** | Overtime consistently high |
+| **Opportunity** | Underutilized routes |
+| **Healthy** | KPIs within target ranges |
+
+---
+
+## 🧪 Portfolio-Safe R Script (Synthetic Data)
+This R script recreates the full analysis logic while using small synthetic datasets.
+
+👉 **Download the full script here:**  
+[Route Utilization R Script](../assets/route_utilization_example.R)
+
+---
+
+## 📈 Example Output (Synthetic)
+Branch A — HEADCOUNT NEEDED
+Branch B — HEALTHY
+Branch C — EFFICIENCY ISSUE
+
+
+Each recommendation is based on:
+
+- utilization  
+- branch-level average miss rate  
+- total overtime hours  
+- normalized performance score  
+
+---
+
+## 🖼️ Dashboard Mockup (Synthetic Data)
+
+<img width="1049" height="685" alt="image" src="https://github.com/user-attachments/assets/4451ae59-62e1-478a-afab-4e2d86d89da5" />
+
+_This screenshot shows a recreation of the original dashboard layout using mock data and generic labels._
+
+---
+
+## 🔒 Confidentiality Note
+
+This analysis was originally created for a large field service organization and used sensitive operational data.  
+To comply with confidentiality, this portfolio version includes:
+
+- **Synthetic data**  
+- **Recreated dashboard visuals**  
+- **Generalized branch names**  
+- **No internal identifiers, no company names, and no proprietary screenshots**
+
+The underlying analytics, methodology, and recommendation logic remain identical to the production version.
+
+---
+
+## 📂 Deliverables
+- Full R script (synthetic)  
+- Scoring model documentation  
+- Branch recommendation engine  
+- Synthetic dashboard visualization  
+- Summary of operational insights  
+
+---
+
+
