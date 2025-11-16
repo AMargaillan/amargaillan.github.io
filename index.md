@@ -1,4 +1,3 @@
-# Adeline Chacon
 _Data Analyst • Operations Analytics • Predictive Modeling • Data Storytelling_
 
 ![R](https://img.shields.io/badge/Code-R-276DC3)
