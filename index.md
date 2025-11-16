@@ -5,7 +5,7 @@ Welcome! This is my data analytics portfolio. I enjoy transforming data into act
 
 ## Featured Projects
 - [Term Deposit Subscription Prediction](/projects/term-deposit-model.md)
-- [Power BI Sales Dashboard](/projects/sales)
+- [Third Star Architecture](/projects/third-star-architecture.md)
 - [Python A/B Testing Analysis](/projects/ab-test)
 
 ## Skills
