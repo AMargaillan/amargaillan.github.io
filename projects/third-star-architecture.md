@@ -67,5 +67,5 @@ The recommended architecture includes:
 ## 📄 Full Report (Download)
 You can view the complete written report here:
 
-👉 [Third Star Enterprise Data Architecture Report (PDF)](..projects/EDM-Analysis-for-Third-Star-Financial-Services.pdf)
+👉 [Third Star Enterprise Data Architecture Report (PDF)](./EDM-Analysis-for-Third-Star-Financial-Services.pdf)
 
