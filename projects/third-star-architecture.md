@@ -62,7 +62,10 @@ The recommended architecture includes:
 - Logical and Physical ERD diagrams  
 - Architecture proposal  
 - Metadata governance plan  
-- Vendor evaluation document  
+- Vendor evaluation document
+
+## 🖼️ Screenshots / Visuals
+<img width="614" height="596" alt="image" src="https://github.com/user-attachments/assets/6042b084-3aba-4a69-88ad-403ecf81b0c6" />
 
 ## 📄 Full Report (Download)
 You can view the complete written report here:
