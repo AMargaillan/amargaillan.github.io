@@ -4,7 +4,7 @@ _Data Analyst • SQL • Power BI_
 Welcome! This is my data analytics portfolio. I enjoy transforming data into actionable insights through visualization, storytelling, and clean analytical processes.
 
 ## Featured Projects
-- [Term Deposit Subscription Prediction](/projects/term-deposit-model)
+- [Term Deposit Subscription Prediction](/projects/term-deposit-model.md)
 - [Power BI Sales Dashboard](/projects/sales)
 - [Python A/B Testing Analysis](/projects/ab-test)
 
